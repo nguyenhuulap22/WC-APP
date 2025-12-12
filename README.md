@@ -233,11 +233,11 @@ React Native · Expo · TypeScript
 
 • Ưu tiên chạy máy thật
 
-❌ Không navigate được
+## ❌ Không navigate được
 
 • Kiểm tra screen đã đăng ký trong Stack Navigator
 
-❌ Không hiển thị icon / ảnh
+## ❌ Không hiển thị icon / ảnh
 
 • Kiểm tra đúng đường dẫn assets/
 
